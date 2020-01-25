@@ -26,7 +26,7 @@ def user_login():
 
 def display_menu():
     print("----------Menu----------")
-    print("1. Add item\n2. Remove item\n3. Adjust stock quantity(UNAVAILABLE)\nType 'q' to save & exit...")
+    print("1. Add item\n2. Remove item\n3. Adjust stock quantity\nType 'q' to save & exit...")
     print("------------------------")
 
 
