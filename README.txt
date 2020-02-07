@@ -27,10 +27,6 @@ Current Features:
 	• Inventory is stored in a .pickle file
 	• User can add, remove, and update stock count.
 
-Plans for Beta 1.0:
-    • Improve date and time display
-    • Implement error handling to avoid program crash (ex. User enters a string into a int input)
-
 ----------------------------------------------------------------------------------
 
 Alpha 2.0 End Date: January 19, 2020
